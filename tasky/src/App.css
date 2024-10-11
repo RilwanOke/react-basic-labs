@@ -92,3 +92,20 @@ form {
   width: 50%;
   margin: auto;
 }
+
+.card.low {
+  background-color: rgb(24, 235, 24);
+}
+
+.card.medium {
+  background-color: orange;
+}
+
+.card.high {
+  background-color: red;
+}
+
+/* Style for completed tasks */
+.card.done {
+  background-color: lightgrey;
+}
